@@ -4,6 +4,7 @@
 
 .archive {
   margin-bottom: 2em;
+  border-left:  2px solid $border-color;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -24,6 +25,10 @@
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
+  }
+
+  ol li {
+    margin-bottom: 1.2em;
   }
 }
 
@@ -84,6 +89,21 @@
   }
 }
 
+.publication_title {
+   font-weight: 500;
+   color: $dark-gray;
+   display: table;
+}
+
+.talk_title {
+      font-weight: 500;
+      color: $dark-gray;
+   }
+.talk_details {
+      font-size: 90%;
+      color: $gray;
+      display: table;
+   }
 
 /*
    List view

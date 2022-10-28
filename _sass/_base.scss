@@ -164,12 +164,12 @@ hr {
 
 ul li,
 ol li {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.0em;
 }
 
 li ul,
 li ol {
-  margin-top: 0.5em;
+  margin-top: 0.0em;
 }
 
 /*
@@ -302,6 +302,12 @@ nav {
   li ul,
   li ol {
     margin-top: 0;
+  }
+
+  img  {
+   width: auto;
+   height: 1.5rem;
+   vertical-align: middle;
   }
 }
 

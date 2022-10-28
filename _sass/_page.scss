@@ -5,7 +5,7 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
+  margin-top: 1em;
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
@@ -17,6 +17,9 @@
 }
 
 .page {
+  border-left:  2px solid $border-color;
+
+
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
@@ -105,6 +108,10 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+
+  .contact {
+     font-size: 80%;
+   }
 }
 
 .page__hero {
@@ -399,3 +406,5 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
