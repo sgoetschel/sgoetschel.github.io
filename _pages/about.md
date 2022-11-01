@@ -26,6 +26,9 @@ Within the [Machine Learning in Engineering](https://www.mle.hamburg/){:target="
 - Data compression
 <!-- - Application fields: Nondestructive testing, Medicine -->
 
+See [Research](/research) for more details!
+
+
 #### Contact
 
 <div class="contact">
