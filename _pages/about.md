@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 
-Since March 2020 I am a senior researcher (Oberingenieur) at the chair for [Computational Mathematics](https://www.mat.tuhh.de/forschung/cm/){:target="_blank"} at Hamburg University of Technology (TUHH).
+Since March 2020 I am a senior researcher at the chair for [Computational Mathematics](https://www.mat.tuhh.de/forschung/cm/){:target="_blank"} at Hamburg University of Technology (TUHH).
 Before I joined TUHH, I was a staff member at [Zuse Institute Berlin](https://www.zib.de){:target="_blank"} since 2008, and obtained a PhD in Mathematics at Freie Universität Berlin in 2015.
 
 Within the [Machine Learning in Engineering](https://www.mle.hamburg/){:target="_blank"} initiative at TUHH, I am leading the activity group [AG Physics-based Machine Learning](https://www.mle.hamburg/workinggroups/#pb_ml){:target="_blank"} together with [Cheng Yang](https://www.tet.tuhh.de/en/staff/dr-cheng-yang/){:target="_blank"}.
