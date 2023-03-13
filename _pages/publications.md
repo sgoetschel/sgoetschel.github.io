@@ -18,7 +18,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 ### Preprints and Submitted Articles
 1. A. Q. Ibrahim, S. Götschel, D. Ruprecht:<span class="publication_title">Parareal with a physics-informed neural network as coarse propagator</span>*arXiv:2303.03848*, submitted, 2023.
 [https://doi.org/10.48550/arXiv.2303.03848](https://doi.org/10.48550/arXiv.2303.03848)
-1. C. Yang, C. Adam, S. Götschel:<span class="publication_title">Single-probe Near-field Phase Retrieval using On-The-Fly Scan and Hilbert Transform,</span> submitted, 2023.
+1. C. Yang, C. Adam, S. Götschel:<span class="publication_title">Single-probe Near-field Phase Retrieval using On-The-Fly Scan and Hilbert Transform</span> submitted, 2023.
 1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>*arXiv:2111.10228*, 2021.
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228)
 
