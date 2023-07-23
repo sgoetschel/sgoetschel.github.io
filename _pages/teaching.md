@@ -17,11 +17,12 @@ author_profile: true
 
 
 ### Current (SoSe 2023)
-- Tutorium **Mathematik II (Analysis) DE/EN**, SoSe 2022
+- Tutorium **Mathematik II (Analysis) DE/EN**
 
 ### Past
 
-- Seminar **Kombinationen von numerischen Algorithmen und Maschinellem Lernen/Combination of numerical algorithms and machine learning** for IIW/CS/DS/TM
+- Seminar **Kombinationen von numerischen Algorithmen und Maschinellem Lernen/Combination of numerical algorithms and machine learning** for IIW/CS/DS/TM, WiSe 2022/23
+- IIW-Project **Machine learning approaches to data compression**, WiSe 2022/23
 - Tutorium **Mathematik II (Analysis) DE/EN**, SoSe 2022
 - Tutorium **Mathematics I EN (Linear Algebra, Mathematical Analysis)**, WiSe 2021/22
 - Seminar **Optimierungsverfahren für Maschinelles Lernen/Optimization methods for machine learning**, SoSe 2021
