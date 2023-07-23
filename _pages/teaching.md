@@ -9,7 +9,7 @@ author_profile: true
 
 ### Theses
 
-[**Contact me**](mailto:sebastian.goetschel@tuhh.de) if you are interested in writing a thesis (BSc, MSc, "Projektarbeit"). Possible topics include machine learning for various applications, combination of machine learning with physics-based modeling and numerical algorithms, as well as numerical methods for time-dependent differential equations and inverse problems.
+[**Contact me**](mailto:sebastian.goetschel@tuhh.de) if you are interested in writing a thesis (BSc, MSc, "Projektarbeit"). Possible topics include machine learning for various applications, combination of machine learning with physics-based modeling and numerical algorithms, as well as numerical methods for time-dependent differential equations, PDE-constrained optimization, and inverse problems.
 
 ### Upcoming (WiSe 2023/24)
 - Seminar Technomathematics (MSc/BSc)
