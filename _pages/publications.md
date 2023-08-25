@@ -16,13 +16,14 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 
 ### Preprints and Submitted Articles
-1. A. Q. Ibrahim, S. Götschel, D. Ruprecht:<span class="publication_title">Parareal with a physics-informed neural network as coarse propagator</span>*arXiv:2303.03848*, submitted, 2023.
-[https://doi.org/10.48550/arXiv.2303.03848](https://doi.org/10.48550/arXiv.2303.03848)
+1. I. Akramov, S. Götschel, M. Minion, D. Ruprecht, and R. Speck<span class="publication_title">Spectral deferred correction methods for second-order problems</span> submitted, 2023
 1. C. Yang, C. Adam, S. Götschel:<span class="publication_title">Single-probe Near-field Phase Retrieval using On-The-Fly Scan and Hilbert Transform</span> submitted, 2023.
 1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>*arXiv:2111.10228*, 2021.
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228)
 
 ### Refereed Articles
+1.  A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Parareal with a physics-informed neural network as coarse propagator</span> In: Cano, J., Dikaiakos, M.D., Papadopoulos, G.A., Pericàs, M., Sakellariou, R. (eds) Euro-Par 2023: *Parallel Processing. Euro-Par 2023*. Lecture Notes in Computer Science, vol 14100. Springer, 2023.
+[https://doi.org/10.1007/978-3-031-39698-4_44](https://doi.org/10.1007/978-3-031-39698-4_44)
 1. D. Hristov, L. Mustonen, R. Von Eyben, S. Götschel, M. Minion and A. E. Kaffas:<span class="publication_title">Dynamic Contrast-Enhanced Ultrasound Modeling of an Analog to Pseudo-Diffusivity in Intravoxel Incoherent Motion Magnetic Resonance Imaging</span>*IEEE Trans Med Imaging*, 2022.
 [https://doi.org/10.1109/TMI.2022.3197363](https://doi.org/10.1109/TMI.2022.3197363)
 1. S. Götschel, M. Minion, D. Ruprecht, R. Speck:<span class="publication_title">Twelve Ways to Fool the Masses When Giving Parallel-in-Time Results</span>In: Ong, B., Schroder, J., Shipton, J., Friedhoff, S. (eds) *Parallel-in-Time Integration Methods*. PinT 2020. Springer Proceedings in Mathematics & Statistics, vol 356. Springer, 2021.
