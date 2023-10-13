@@ -16,12 +16,12 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 
 ### Preprints and Submitted Articles
-1. I. Akramov, S. Götschel, M. Minion, D. Ruprecht, R. Speck:<span class="publication_title">Spectral deferred correction methods for second-order problems</span> submitted, 2023
-1. C. Yang, C. Adam, S. Götschel:<span class="publication_title">Single-probe Near-field Phase Retrieval using On-The-Fly Scan and Hilbert Transform</span> accepted at EMC Europe, 2023.
+1. I. Akramov, S. Götschel, M. Minion, D. Ruprecht, R. Speck:<span class="publication_title">Spectral deferred correction methods for second-order problems</span> submitted, 2023. [https://arxiv.org/abs/2310.08352](https://arxiv.org/abs/2310.08352)
 1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>*arXiv:2111.10228*, 2021.
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228)
 
 ### Refereed Articles
+1. C. Yang, C. Adam, S. Götschel:<span class="publication_title">Single-probe Near-field Phase Retrieval using On-The-Fly Scan and Hilbert Transform</span> In: *2023 International Symposium on Electromagnetic Compatibility – EMC Europe*, 2023. [https://doi.org/2023.10.1109/EMCEurope57790.2023.10274183](https://doi.org/2023.10.1109/EMCEurope57790.2023.10274183)
 1.  A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Parareal with a physics-informed neural network as coarse propagator</span> In: Cano, J., Dikaiakos, M.D., Papadopoulos, G.A., Pericàs, M., Sakellariou, R. (eds) Euro-Par 2023: *Parallel Processing. Euro-Par 2023*. Lecture Notes in Computer Science, vol 14100. Springer, 2023.
 [https://doi.org/10.1007/978-3-031-39698-4_44](https://doi.org/10.1007/978-3-031-39698-4_44)
 1. D. Hristov, L. Mustonen, R. Von Eyben, S. Götschel, M. Minion and A. E. Kaffas:<span class="publication_title">Dynamic Contrast-Enhanced Ultrasound Modeling of an Analog to Pseudo-Diffusivity in Intravoxel Incoherent Motion Magnetic Resonance Imaging</span>*IEEE Trans Med Imaging*, 2022.
