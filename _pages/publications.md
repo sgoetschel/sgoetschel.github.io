@@ -16,11 +16,17 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 
 ### Preprints and Submitted Articles
-1. I. Akramov, S. Götschel, M. Minion, D. Ruprecht, R. Speck:<span class="publication_title">Spectral deferred correction methods for second-order problems</span> submitted, 2023. [https://arxiv.org/abs/2310.08352](https://arxiv.org/abs/2310.08352)
+1. P. Freese, S. Götschel, T. Lunet, D. Ruprecht, M. Schreiber<span class="publication_title">Parallel performance of shared memory parallel spectral deferred corrections</span>*arXiv:2403.20135*, submitted, 2024.
+[https://arxiv.org/abs/2403.20135](https://arxiv.org/abs/2403.20135)
+1. G. Čaklović, T. Lunet, S. Götschel, D. Ruprecht:<span class="publication_title">Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections</span>*arXiv:2403.18641*, submitted, 2024.
+[https://arxiv.org/abs/2403.18641](https://arxiv.org/abs/2403.18641)
+1. T. Baumann, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Adaptive time step selection for Spectral Deferred Corrections</span>*arXiv:2403.13454*, submitted, 2024.
+[https://arxiv.org/abs/2403.13454](https://arxiv.org/abs/2403.13454)
 1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>*arXiv:2111.10228*, 2021.
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228)
 
 ### Refereed Articles
+1. I. Akramov, S. Götschel, M. Minion, D. Ruprecht, R. Speck:<span class="publication_title">Spectral deferred correction methods for second-order problems</span> *SIAM J. Sci. Comput.*, accepted, 2024. Preprint: [https://arxiv.org/abs/2310.08352](https://arxiv.org/abs/2310.08352)
 1. C. Yang, C. Adam, S. Götschel:<span class="publication_title">Single-probe Near-field Phase Retrieval using On-The-Fly Scan and Hilbert Transform</span> In: *2023 International Symposium on Electromagnetic Compatibility – EMC Europe*, 2023. [https://doi.org/10.1109/EMCEurope57790.2023.10274183](https://doi.org/10.1109/EMCEurope57790.2023.10274183)
 1.  A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Parareal with a physics-informed neural network as coarse propagator</span> In: Cano, J., Dikaiakos, M.D., Papadopoulos, G.A., Pericàs, M., Sakellariou, R. (eds) Euro-Par 2023: *Parallel Processing. Euro-Par 2023*. Lecture Notes in Computer Science, vol 14100. Springer, 2023.
 [https://doi.org/10.1007/978-3-031-39698-4_44](https://doi.org/10.1007/978-3-031-39698-4_44)
