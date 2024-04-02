@@ -12,6 +12,7 @@ author_profile: true
 {% endif %}
 
 ### Minsiymposia Organization
+- <span class="talk_title">Parallel-in-time methods for PDE-constrained optimization</span><span class="talk_details">31st IFIP TC-7 "System Modeling and Optimization" conference, Germany, August 2024
 - <span class="talk_title">High-order and Parallel Time Integration</span><span class="talk_details">93rd GAMM Annual Meeting, Dresden, Germany, May/June 2023 (*invited*, together with Jörg Stiller, TU Dresden)
 - <span class="talk_title">Parallel-in-Time Algorithms: Performance and Real-World Applications</span><span class="talk_details">SIAM Conference on Computational Science and Engineering (CSE23), Amsterdam, The Netherlands (together with Gayatri Čaklović, Karlsruhe Institute of Technology, Germany, and Martin Schreiber, Université Grenoble Alpes, France)
 - <span class="talk_title">Time-parallel Time Integration Techniques</span><span class="talk_details">SciCADE 2022, Reykjavík, Iceland, July 2022 (*invited*, together with Michael Minion, Lawrence Berkeley National Laboratory, USA)
@@ -19,6 +20,13 @@ author_profile: true
 - <span class="talk_title">Spectral Deferred Correction Methods for Time Integration</span><span class="talk_details">SIAM Conference on Computational Science and Engineering (CSE21), virtual, March 2021 (together with Michael Minion, Lawrence Berkeley National Laboratory, USA)
 - <span class="talk_title">Spectral Deferred Correction Methods for Time Integration</span><span class="talk_details">SciCADE 2019, Insbruck, Austria, July 2019 (together with Michael Minion, Lawrence Berkeley National Laboratory, USA)
 - <span class="talk_title">Algorithmic Challenges in PDE-constrained Optimization</span><span class="talk_details">IFIP TC 7 Conference on System Modelling and Optimization, Essen, Germany, July 2018 (together with Martin Siebenborn, University of Hamburg, Germany)
+
+### 2023
+- <span class="talk_title">Advances in Spectral Deferred Correction Methods
+</span><span class="talk_details">Workshop "Exploiting Algebraic and Geometric Structure in Time-Integration Methods", Pisa, Italy, April 2024 (*Poster*)</span>
+- <span class="talk_title">Parareal with Physics-Informed Neural Operators as Coarse Propagator
+</span><span class="talk_details">Algoritmy 2024 - Central-European Conference on Scientific Computing, High Tatra Mountains, Slovakia, March, 2024 (*invited*)</span>
+
 
 ### 2023
 - <span class="talk_title">PDE-constrained optimization meets ParaDiag</span><span class="talk_details">12th Workshop on Parallel-in-time Integration, Hamburg, Germany, July 2023 (*Poster*)</span>
