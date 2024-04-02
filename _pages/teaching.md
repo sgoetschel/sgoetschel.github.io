@@ -11,13 +11,13 @@ author_profile: true
 
 [**Contact me**](mailto:sebastian.goetschel@tuhh.de) if you are interested in writing a thesis (BSc, MSc, "Projektarbeit"). Possible topics include machine learning for various applications, combination of machine learning with physics-based modeling and numerical algorithms, as well as numerical methods for time-dependent differential equations, PDE-constrained optimization, and inverse problems.
 
-### Current (WiSe 2023/24)
-- Seminar Technomathematics (MSc/BSc)
-- IIW-Project **Machine learning approaches to data compression**
+### Current (SoSe 2024)
+- Tutorium and exercise classes **Mathematik II (Analysis) DE/EN**
 
 
 ### Past
-
+- Seminar Technomathematics (MSc/BSc), WiSe 2023/24
+- IIW-Project **Machine learning approaches to data compression**, WiSe 2023/24
 - Tutorium **Mathematik II (Analysis) DE/EN**, SoSe 2023
 - Seminar **Kombinationen von numerischen Algorithmen und Maschinellem Lernen/Combination of numerical algorithms and machine learning** for IIW/CS/DS/TM, WiSe 2022/23
 - IIW-Project **Machine learning approaches to data compression**, WiSe 2022/23
