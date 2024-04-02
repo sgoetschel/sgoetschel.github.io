@@ -21,7 +21,7 @@ author_profile: true
 - <span class="talk_title">Spectral Deferred Correction Methods for Time Integration</span><span class="talk_details">SciCADE 2019, Insbruck, Austria, July 2019 (together with Michael Minion, Lawrence Berkeley National Laboratory, USA)
 - <span class="talk_title">Algorithmic Challenges in PDE-constrained Optimization</span><span class="talk_details">IFIP TC 7 Conference on System Modelling and Optimization, Essen, Germany, July 2018 (together with Martin Siebenborn, University of Hamburg, Germany)
 
-### 2023
+### 2024
 - <span class="talk_title">Advances in Spectral Deferred Correction Methods
 </span><span class="talk_details">Workshop "Exploiting Algebraic and Geometric Structure in Time-Integration Methods", Pisa, Italy, April 2024 (*Poster*)</span>
 - <span class="talk_title">Parareal with Physics-Informed Neural Operators as Coarse Propagator
