@@ -29,6 +29,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 ### Refereed Articles
 1. I. Akramov, S. Götschel, M. Minion, D. Ruprecht, R. Speck:<span class="publication_title">Spectral deferred correction methods for second-order problems</span> *SIAM J. Sci. Comput.*, accepted, 2024. Preprint: [https://arxiv.org/abs/2310.08352](https://arxiv.org/abs/2310.08352)
+1. C. Yang, C. Adam, S. Götschel:<span class="publication_title">Complex Near-Field Measurement Using On-The-Fly Scan with In-phase and Quadrature Demodulation</span> In: *15th German Microwave Conference (GeMiC)*, pp. 181-184, 2024. [https://doi.org/10.23919/GeMiC59120.2024.10485338](https://doi.org/10.23919/GeMiC59120.2024.10485338)
 1. C. Yang, C. Adam, S. Götschel:<span class="publication_title">Single-probe Near-field Phase Retrieval using On-The-Fly Scan and Hilbert Transform</span> In: *2023 International Symposium on Electromagnetic Compatibility – EMC Europe*, 2023. [https://doi.org/10.1109/EMCEurope57790.2023.10274183](https://doi.org/10.1109/EMCEurope57790.2023.10274183)
 1.  A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Parareal with a physics-informed neural network as coarse propagator</span> In: Cano, J., Dikaiakos, M.D., Papadopoulos, G.A., Pericàs, M., Sakellariou, R. (eds) Euro-Par 2023: *Parallel Processing. Euro-Par 2023*. Lecture Notes in Computer Science, vol 14100. Springer, 2023.
 [https://doi.org/10.1007/978-3-031-39698-4_44](https://doi.org/10.1007/978-3-031-39698-4_44)
