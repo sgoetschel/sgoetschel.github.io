@@ -20,7 +20,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 [https://arxiv.org/abs/2404.06400](https://arxiv.org/abs/2404.06400)
 1. J. Angel, J. Behrens, S. Götschel, M. Hollm, D. Ruprecht, R. Seifried:<span class="publication_title">Bathymetry reconstruction from experimental data using PDE- constrained optimisation</span>*arXiv:2404.05556*, submitted, 2024.
 [https://arxiv.org/abs/2404.05556](https://arxiv.org/abs/2404.05556)<br>
-[Data](https://doi.org/10.15480/882.9403) [Code](https://zenodo.org/records/10848185)
+[Data](https://doi.org/10.15480/882.9403){:target="_blank"} [Code](https://zenodo.org/records/10848185){:target="_blank"}
 1. A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Space-time parallel scaling of Parareal with a Fourier Neural Operator as coarse propagator</span>*arXiv:2404.02521*, submitted, 2024.
 [https://arxiv.org/abs/2404.02521](https://arxiv.org/abs/2404.02521)
 1. P. Freese, S. Götschel, T. Lunet, D. Ruprecht, M. Schreiber<span class="publication_title">Parallel performance of shared memory parallel spectral deferred corrections</span>*arXiv:2403.20135*, submitted, 2024.
