@@ -18,9 +18,6 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 ### Preprints and Submitted Articles
 1. M. Witte, F. R. Lapolli, P. Freese, S. Götschel, D. Ruprecht, P. Korn, C. Kadow:<span class="publication_title">Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations</span>*arXiv:2404.06400*, submitted, 2024.
 [https://arxiv.org/abs/2404.06400](https://arxiv.org/abs/2404.06400){:target="_blank"}
-1. J. Angel, J. Behrens, S. Götschel, M. Hollm, D. Ruprecht, R. Seifried:<span class="publication_title">Bathymetry reconstruction from experimental data using PDE- constrained optimisation</span>*arXiv:2404.05556*, submitted, 2024.
-[https://arxiv.org/abs/2404.05556](https://arxiv.org/abs/2404.05556){:target="_blank"} <br>
-[Data](https://doi.org/10.15480/882.9403){:target="_blank"} [Code](https://zenodo.org/records/10848185){:target="_blank"}
 1. A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Space-time parallel scaling of Parareal with a Fourier Neural Operator as coarse propagator</span>*arXiv:2404.02521*, submitted, 2024.
 [https://arxiv.org/abs/2404.02521](https://arxiv.org/abs/2404.02521){:target="_blank"}
 1. P. Freese, S. Götschel, T. Lunet, D. Ruprecht, M. Schreiber<span class="publication_title">Parallel performance of shared memory parallel spectral deferred corrections</span>*arXiv:2403.20135*, submitted, 2024.
@@ -33,7 +30,12 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228){:target="_blank"}
 
 ### Refereed Articles
-1. I. Akramov, S. Götschel, M. Minion, D. Ruprecht, R. Speck:<span class="publication_title">Spectral deferred correction methods for second-order problems</span> *SIAM J. Sci. Comput.*, accepted, 2024. Preprint: [https://arxiv.org/abs/2310.08352](https://arxiv.org/abs/2310.08352){:target="_blank"}
+1. J. Angel, J. Behrens, S. Götschel, M. Hollm, D. Ruprecht, R. Seifried:<span class="publication_title">Bathymetry reconstruction from experimental data using PDE- constrained optimisation</span>*aComputers & Fluids*, Volume 278, 2024.
+[https://doi.org/10.1016/j.compfluid.2024.106321.
+](https://doi.org/10.1016/j.compfluid.2024.106321.
+){:target="_blank"} <br>
+[Data](https://doi.org/10.15480/882.9403){:target="_blank"} [Code](https://zenodo.org/records/11085597){:target="_blank"}
+1. I. Akramov, S. Götschel, M. Minion, D. Ruprecht, R. Speck:<span class="publication_title">Spectral deferred correction methods for second-order problems</span> *SIAM J. Sci. Comput.*, 46:3, A1690-A1713, 2024. Preprint: [https://doi.org/10.1137/23M1592596](https://doi.org/10.1137/23M1592596){:target="_blank"}
 1. C. Yang, C. Adam, S. Götschel:<span class="publication_title">Complex Near-Field Measurement Using On-The-Fly Scan with In-phase and Quadrature Demodulation</span> In: *15th German Microwave Conference (GeMiC)*, pp. 181-184, 2024. [https://doi.org/10.23919/GeMiC59120.2024.10485338](https://doi.org/10.23919/GeMiC59120.2024.10485338){:target="_blank"}
 1. C. Yang, C. Adam, S. Götschel:<span class="publication_title">Single-probe Near-field Phase Retrieval using On-The-Fly Scan and Hilbert Transform</span> In: *2023 International Symposium on Electromagnetic Compatibility – EMC Europe*, 2023. [https://doi.org/10.1109/EMCEurope57790.2023.10274183](https://doi.org/10.1109/EMCEurope57790.2023.10274183){:target="_blank"}
 1.  A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Parareal with a physics-informed neural network as coarse propagator</span> In: Cano, J., Dikaiakos, M.D., Papadopoulos, G.A., Pericàs, M., Sakellariou, R. (eds) Euro-Par 2023: *Parallel Processing. Euro-Par 2023*. Lecture Notes in Computer Science, vol 14100. Springer, 2023.
