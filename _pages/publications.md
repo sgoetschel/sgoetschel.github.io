@@ -30,7 +30,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228){:target="_blank"}
 
 ### Refereed Articles
-1. J. Angel, J. Behrens, S. Götschel, M. Hollm, D. Ruprecht, R. Seifried:<span class="publication_title">Bathymetry reconstruction from experimental data using PDE- constrained optimisation</span>*Computers & Fluids*, Volume 278, 2024.
+1. J. Angel, J. Behrens, S. Götschel, M. Hollm, D. Ruprecht, R. Seifried:<span class="publication_title">Bathymetry reconstruction from experimental data using PDE-constrained optimisation</span>*Computers & Fluids*, Volume 278, 2024.
 [https://doi.org/10.1016/j.compfluid.2024.106321.
 ](https://doi.org/10.1016/j.compfluid.2024.106321.
 ){:target="_blank"} <br>
