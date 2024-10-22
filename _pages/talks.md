@@ -22,6 +22,10 @@ author_profile: true
 - <span class="talk_title">Algorithmic Challenges in PDE-constrained Optimization</span><span class="talk_details">IFIP TC 7 Conference on System Modelling and Optimization, Essen, Germany, July 2018 (together with Martin Siebenborn, University of Hamburg, Germany)
 
 ### 2024
+- <span class="talk_title">ML-accelerated parallel-in-time PDE-constrained optimization
+</span><span class="talk_details">Workshop "Control and Optimization in the Age of Data", Bayreuth, Germany, September 2024</span>
+- <span class="talk_title>"Parallelization in time for optimal control and inverse problems
+</span><span class="talk_details">31st IFIP TC-7 "System Modeling and Optimization" conference, Germany, August 2024 (*invited*)</span>
 - <span class="talk_title">Advances in Spectral Deferred Correction Methods
 </span><span class="talk_details">Workshop "Exploiting Algebraic and Geometric Structure in Time-Integration Methods", Pisa, Italy, April 2024 (*Poster*)</span>
 - <span class="talk_title">Parareal with Physics-Informed Neural Operators as Coarse Propagator
