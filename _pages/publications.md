@@ -30,7 +30,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 1. G. Čaklović, T. Lunet, S. Götschel, D. Ruprecht:<span class="publication_title">Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections</span>*SIAM J. Sci. Comput.*, accepted, 2024.
 [Preprint](https://arxiv.org/abs/2403.18641){:target="_blank"}
 1. T. Baumann, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Adaptive time step selection for Spectral Deferred Corrections</span>*Numer. Algorithms*, accepted, 2024.
-[Preprint](https://arxiv.org/abs/2403.13454){:target="_blank"}
+[https://doi.org/10.1007/s11075-024-01964-z](https://doi.org/10.1007/s11075-024-01964-z){:target="_blank"}
 1. J. Angel, J. Behrens, S. Götschel, M. Hollm, D. Ruprecht, R. Seifried:<span class="publication_title">Bathymetry reconstruction from experimental data using PDE-constrained optimisation</span>*Computers & Fluids*, Volume 278, 2024.
 [https://doi.org/10.1016/j.compfluid.2024.106321.
 ](https://doi.org/10.1016/j.compfluid.2024.106321.
