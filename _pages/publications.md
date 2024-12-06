@@ -16,7 +16,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 
 ### Preprints and Submitted Articles
-T. Baumann, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>*arXiv:2412.00529*, submitted, 2024.
+1. T. Baumann, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>*arXiv:2412.00529*, submitted, 2024.
 [https://arxiv.org/abs/2412.00529](https://arxiv.org/abs/2412.00529){:target="_blank"}
 1. M. Witte, F. R. Lapolli, P. Freese, S. Götschel, D. Ruprecht, P. Korn, C. Kadow:<span class="publication_title">Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations</span>*arXiv:2404.06400*, submitted, 2024.
 [https://arxiv.org/abs/2404.06400](https://arxiv.org/abs/2404.06400){:target="_blank"}
