@@ -18,17 +18,16 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 ### Preprints and Submitted Articles
 1. T. Baumann, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>*arXiv:2412.00529*, submitted, 2024.
 [https://arxiv.org/abs/2412.00529](https://arxiv.org/abs/2412.00529){:target="_blank"}
-1. M. Witte, F. R. Lapolli, P. Freese, S. Götschel, D. Ruprecht, P. Korn, C. Kadow:<span class="publication_title">Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations</span>*arXiv:2404.06400*, submitted, 2024.
-[https://arxiv.org/abs/2404.06400](https://arxiv.org/abs/2404.06400){:target="_blank"}
 1. A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Space-time parallel scaling of Parareal with a Fourier Neural Operator as coarse propagator</span>*arXiv:2404.02521*, submitted, 2024.
 [https://arxiv.org/abs/2404.02521](https://arxiv.org/abs/2404.02521){:target="_blank"}
 1. P. Freese, S. Götschel, T. Lunet, D. Ruprecht, M. Schreiber<span class="publication_title">Parallel performance of shared memory parallel spectral deferred corrections</span>*arXiv:2403.20135*, submitted, 2024.
 [https://arxiv.org/abs/2403.20135](https://arxiv.org/abs/2403.20135){:target="_blank"}
-
 1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>*arXiv:2111.10228*, 2021.
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228){:target="_blank"}
 
 ### Refereed Articles
+1. M. Witte, F. R. Lapolli, P. Freese, S. Götschel, D. Ruprecht, P. Korn, C. Kadow:<span class="publication_title">Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations</span>*Machine Learning: Science and Technology*, accepted, 2024.
+[https://doi.org/10.1088/2632-2153/ada19f](https://doi.org/10.1088/2632-2153/ada19f){:target="_blank"}
 1. G. Čaklović, T. Lunet, S. Götschel, D. Ruprecht:<span class="publication_title">Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections</span>*SIAM J. Sci. Comput.*, accepted, 2024.
 [Preprint](https://arxiv.org/abs/2403.18641){:target="_blank"}
 1. T. Baumann, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Adaptive time step selection for Spectral Deferred Corrections</span>*Numer. Algorithms*, accepted, 2024.
