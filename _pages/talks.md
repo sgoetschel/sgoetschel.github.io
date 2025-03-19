@@ -22,7 +22,7 @@ author_profile: true
 - <span class="talk_title">Algorithmic Challenges in PDE-constrained Optimization</span><span class="talk_details">IFIP TC 7 Conference on System Modelling and Optimization, Essen, Germany, July 2018 (together with Martin Siebenborn, University of Hamburg, Germany)
 
 ### 2025
-- <span class="talk_title">Neural Operator-accelerated Parallel-in-Time Methods/span><span class="talk_details">95th GAMM Annual Meeting, Poznan, Poland, April 2025</span>
+- <span class="talk_title">Neural Operator-accelerated Parallel-in-Time Methods</span><span class="talk_details">95th GAMM Annual Meeting, Poznan, Poland, April 2025</span>
 - <span class="talk_title">ML-enhanced numerics for science and engineering</span><span class="talk_details">Annual Meeting of EMS activity group on Scientific Machine Learning, Milan, Italy, March 2025 (*poster*)</span>
 - <span class="talk_title">Data Meets Physics: Physics-Informed Machine Learning and Learning-Informed Physics</span><span class="talk_details">VISTA seminar & School of Graduate Research (VISOR) matchmaking event, Hamburg, Germany, February 2025 (*keynote*)</span>
 

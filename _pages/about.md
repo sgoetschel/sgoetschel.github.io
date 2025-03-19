@@ -16,7 +16,7 @@ Before I joined TUHH, I was a staff member at [Zuse Institute Berlin](https://ww
 
 I am a member of the coordinating team of the [Machine Learning in Engineering](https://www.mle.hamburg/){:target="_blank"} initiative at TUHH, are part of the organizing committee of the [MLE Days 2023 and 2025](https://www.tuhh.de/mle/events/conference-workshops){:target="_blank"}, and am leading the MLE activity group on Physics-based Machine Learningtogether with [Cheng Yang](https://www.tet.tuhh.de/en/staff/dr-cheng-yang/){:target="_blank"}.
 
-Since August 2023 I am a member of the Scientific Committee of the [Parallel-in-Time workshop series](https://parallel-in-time.org/events/).
+Since August 2023 I am a member of the Scientific Committee of the [Parallel-in-Time workshop series](https://parallel-in-time.org/events/){:target="_blank"}.
 
 ### Research Interests
 
