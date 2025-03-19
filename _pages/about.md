@@ -14,9 +14,9 @@ redirect_from:
 Since March 2020 I am a senior researcher at the chair for [Computational Mathematics](https://www.mat.tuhh.de/forschung/cm/){:target="_blank"} at Hamburg University of Technology (TUHH).
 Before I joined TUHH, I was a staff member at [Zuse Institute Berlin](https://www.zib.de){:target="_blank"} since 2008, and obtained a PhD in Mathematics at Freie Universität Berlin in 2015.
 
-I am a member of the coordinating team of the [Machine Learning in Engineering](https://www.mle.hamburg/){:target="_blank"} initiative at TUHH, are part of the organizing committee of the [MLE Days 2023](https://www.mle-days.hamburg/){:target="_blank"}, and am leading the MLE activity group [AG Physics-based Machine Learning](https://www.mle.hamburg/workinggroups/#pb_ml){:target="_blank"} together with [Cheng Yang](https://www.tet.tuhh.de/en/staff/dr-cheng-yang/){:target="_blank"}. 
+I am a member of the coordinating team of the [Machine Learning in Engineering](https://www.mle.hamburg/){:target="_blank"} initiative at TUHH, are part of the organizing committee of the [MLE Days 2023 and 2025](https://www.tuhh.de/mle/events/conference-workshops){:target="_blank"}, and am leading the MLE activity group on Physics-based Machine Learningtogether with [Cheng Yang](https://www.tet.tuhh.de/en/staff/dr-cheng-yang/){:target="_blank"}.
 
-Since August 2023 I am a member of the Scientific Committee of the Parallel-in-Time workshop series.
+Since August 2023 I am a member of the Scientific Committee of the [Parallel-in-Time workshop series](https://parallel-in-time.org/events/).
 
 ### Research Interests
 

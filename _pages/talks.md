@@ -21,13 +21,18 @@ author_profile: true
 - <span class="talk_title">Spectral Deferred Correction Methods for Time Integration</span><span class="talk_details">SciCADE 2019, Insbruck, Austria, July 2019 (together with Michael Minion, Lawrence Berkeley National Laboratory, USA)
 - <span class="talk_title">Algorithmic Challenges in PDE-constrained Optimization</span><span class="talk_details">IFIP TC 7 Conference on System Modelling and Optimization, Essen, Germany, July 2018 (together with Martin Siebenborn, University of Hamburg, Germany)
 
+### 2025
+- <span class="talk_title">Neural Operator-accelerated Parallel-in-Time Methods/span><span class="talk_details">95th GAMM Annual Meeting, Poznan, Poland, April 2025</span>
+- <span class="talk_title">ML-enhanced numerics for science and engineering</span><span class="talk_details">Annual Meeting of EMS activity group on Scientific Machine Learning, Milan, Italy, March 2025 (*poster*)</span>
+- <span class="talk_title">Data Meets Physics: Physics-Informed Machine Learning and Learning-Informed Physics</span><span class="talk_details">VISTA seminar & School of Graduate Research (VISOR) matchmaking event, Hamburg, Germany, February 2025 (*keynote*)</span>
+
 ### 2024
 - <span class="talk_title">Parallel-in-time methods for PDE-constrained optimization
 </span><span class="talk_details">Universidad de Malaga, Malaga, Spain, November 2024 (*invited*)</span>
 - <span class="talk_title">ML-accelerated parallel-in-time PDE-constrained optimization
 </span><span class="talk_details">Workshop "Control and Optimization in the Age of Data", Bayreuth, Germany, September 2024</span>
 - <span class="talk_title">Parallelization in time for optimal control and inverse problems
-</span><span class="talk_details">31st IFIP TC-7 "System Modeling and Optimization" conference, Germany, August 2024 (*invited*)</span>
+</span><span class="talk_details">31st IFIP TC-7 "System Modeling and Optimization" conference, Hamburg, Germany, August 2024 (*invited*)</span>
 - <span class="talk_title">Advances in Spectral Deferred Correction Methods
 </span><span class="talk_details">Workshop "Exploiting Algebraic and Geometric Structure in Time-Integration Methods", Pisa, Italy, April 2024 (*Poster*)</span>
 - <span class="talk_title">Parareal with Physics-Informed Neural Operators as Coarse Propagator
@@ -35,10 +40,10 @@ author_profile: true
 
 
 ### 2023
-- <span class="talk_title">PDE-constrained optimization meets ParaDiag</span><span class="talk_details">12th Workshop on Parallel-in-time Integration, Hamburg, Germany, July 2023 (*Poster*)</span>
-- <span class="talk_title">Combining numerical methods and machine learning for physical and engineering sciences</span><span class="talk_details">Conference on Deep Learning for Computational Physics, London, UK, July 2023 (*Poster*)</span>
+- <span class="talk_title">PDE-constrained optimization meets ParaDiag</span><span class="talk_details">12th Workshop on Parallel-in-time Integration, Hamburg, Germany, July 2023 (*poster*)</span>
+- <span class="talk_title">Combining numerical methods and machine learning for physical and engineering sciences</span><span class="talk_details">Conference on Deep Learning for Computational Physics, London, UK, July 2023 (*poster*)</span>
 - <span class="talk_title">Parallelization in time for optimal control and inverse problems</span><span class="talk_details">93rd GAMM Annual Meeting, Dresden, Germany, May/June 2023</span>
-- <span class="talk_title">Accelerating Parallel-in-Time Methods with Machine Learning</span><span class="talk_details">SIAM Conference on Computational Science and Engineering (CSE23), Amsterdam, The Netherlands, February/March 2023 (*Poster*)</span>
+- <span class="talk_title">Accelerating Parallel-in-Time Methods with Machine Learning</span><span class="talk_details">SIAM Conference on Computational Science and Engineering (CSE23), Amsterdam, The Netherlands, February/March 2023 (*poster*)</span>
 
 
 ### 2022
@@ -46,7 +51,7 @@ author_profile: true
 - <span class="talk_title">Machine learning for parallel-in-time methods?</span><span class="talk_details">92nd GAMM Annual Meeting, Aachen, Germany, August 2022
 - <span class="talk_title">Machine learning for parallel-in-time methods?</span><span class="talk_details"> International Conference on Scientific Computation and Differential Equations (SciCADE), Reykjavík, Iceland, July 2022 (*invited*)
 - <span class="talk_title">Machine learning for parallel-in-time methods?</span><span class="talk_details"> 11th Workshop on Parallel-in-Time Integration, Marseille, France, July 2022
-- <span class="talk_title">Efficient algorithms for models in physical and engineering sciences</span><span class="talk_details">CDCS Opening symposium, Hamburg, Germany, April 2022 (*Poster*)</span>
+- <span class="talk_title">Efficient algorithms for models in physical and engineering sciences</span><span class="talk_details">CDCS Opening symposium, Hamburg, Germany, April 2022 (*poster*)</span>
 
 ### 2021
 - <span class="talk_title">Parallelization in time for optimal control and inverse problems</span><span class="talk_details">91st GAMM Annual Meeting, virtual, March 2021
