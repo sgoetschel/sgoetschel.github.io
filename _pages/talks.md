@@ -23,6 +23,7 @@ author_profile: true
 
 ### 2025
 - <span class="talk_title">Neural Operator-accelerated Parallel-in-Time Methods</span><span class="talk_details">95th GAMM Annual Meeting, Poznan, Poland, April 2025</span>
+- <span class="talk_title">Physics-Informed Machine Learning for Science and Engineering</span><span class="talk_details">MLE Day 2025, Hamburg, Germany, April 2025 (*invited*)</span>
 - <span class="talk_title">ML-enhanced numerics for science and engineering</span><span class="talk_details">Annual Meeting of EMS activity group on Scientific Machine Learning, Milan, Italy, March 2025 (*poster*)</span>
 - <span class="talk_title">Data Meets Physics: Physics-Informed Machine Learning and Learning-Informed Physics</span><span class="talk_details">VISTA seminar & School of Graduate Research (VISOR) matchmaking event, Hamburg, Germany, February 2025 (*keynote*)</span>
 
@@ -40,7 +41,7 @@ author_profile: true
 
 
 ### 2023
-- <span class="talk_title">Parareal with a Physics Informed Neural Network as coarse propagator</span><span class="talk_details">SDC Days, Jülich, Germany, December 2023 </span>
+- <span class="talk_title">Parareal with a Physics Informed Neural Network as coarse propagator</span><span class="talk_details">SDC Days 2023, Jülich, Germany, December 2023 </span>
 - <span class="talk_title">PDE-constrained optimization meets ParaDiag</span><span class="talk_details">12th Workshop on Parallel-in-time Integration, Hamburg, Germany, July 2023 (*poster*)</span>
 - <span class="talk_title">Combining numerical methods and machine learning for physical and engineering sciences</span><span class="talk_details">Conference on Deep Learning for Computational Physics, London, UK, July 2023 (*poster*)</span>
 - <span class="talk_title">Parallelization in time for optimal control and inverse problems</span><span class="talk_details">93rd GAMM Annual Meeting, Dresden, Germany, May/June 2023</span>
