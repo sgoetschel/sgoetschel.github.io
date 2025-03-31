@@ -27,16 +27,16 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 ### Refereed Articles
 1. C. Yang, T. Monopoli, S. Götschel, X. Wu, F. Grassi, C. Schuster:<span class="publication_title">Adaptive On-the-fly Scan Method for Fast and Efficient Planar Near-field Acquisition</span>*IEEE Antennas and Wireless Propagation Letters*, accepted, 2025.
-1. M. Witte, F. R. Lapolli, P. Freese, S. Götschel, D. Ruprecht, P. Korn, C. Kadow:<span class="publication_title">Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations</span>*Machine Learning: Science and Technology*, accepted, 2024.
+1. M. Witte, F. R. Lapolli, P. Freese, S. Götschel, D. Ruprecht, P. Korn, C. Kadow:<span class="publication_title">Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations</span>*Machine Learning: Science and Technology*, 6:1, 015060, 2025.
 [https://doi.org/10.1088/2632-2153/ada19f](https://doi.org/10.1088/2632-2153/ada19f){:target="_blank"}
-1. G. Čaklović, T. Lunet, S. Götschel, D. Ruprecht:<span class="publication_title">Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections</span>*SIAM J. Sci. Comput.*, accepted, 2024.
+1. G. Čaklović, T. Lunet, S. Götschel, D. Ruprecht:<span class="publication_title">Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections</span>*SIAM J. Sci. Comput.*, 47:1, A430-A453, 2025.
 [https://epubs.siam.org/doi/full/10.1137/24M1649800](https://epubs.siam.org/doi/full/10.1137/24M1649800){:target="_blank"}
 1. T. Baumann, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Adaptive time step selection for Spectral Deferred Corrections</span>*Numerical Algorithms*, 2024.
 [https://doi.org/10.1007/s11075-024-01964-z](https://doi.org/10.1007/s11075-024-01964-z){:target="_blank"}
 1. J. Angel, J. Behrens, S. Götschel, M. Hollm, D. Ruprecht, R. Seifried:<span class="publication_title">Bathymetry reconstruction from experimental data using PDE-constrained optimisation</span>*Computers & Fluids*, Volume 278, 2024.
-[https://doi.org/10.1016/j.compfluid.2024.106321.
-](https://doi.org/10.1016/j.compfluid.2024.106321.
-){:target="_blank"} <br>
+[https://doi.org/10.1016/j.compfluid.2024.106321
+](https://doi.org/10.1016/j.compfluid.2024.106321
+){:target="_blank"}. <br>
 [Data](https://doi.org/10.15480/882.9403){:target="_blank"} [Code](https://zenodo.org/records/11085597){:target="_blank"}
 1. I. Akramov, S. Götschel, M. Minion, D. Ruprecht, R. Speck:<span class="publication_title">Spectral deferred correction methods for second-order problems</span> *SIAM J. Sci. Comput.*, 46:3, A1690-A1713, 2024. [https://doi.org/10.1137/23M1592596](https://doi.org/10.1137/23M1592596){:target="_blank"}
 1. C. Yang, C. Adam, S. Götschel:<span class="publication_title">Evaluation of On-the-fly Scanning Effects on Complex Field Retrieval Using a Single Probe</span> In: *2024 International Symposium on Electromagnetic Compatibility – EMC Europe*, 2024. [https://doi.org/10.1109/EMCEurope59828.2024.10722745](https://doi.org/10.1109/EMCEurope59828.2024.10722745){:target="_blank"}

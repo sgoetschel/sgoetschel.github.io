@@ -40,6 +40,7 @@ author_profile: true
 
 
 ### 2023
+- <span class="talk_title">Parareal with a Physics Informed Neural Network as coarse propagator</span><span class="talk_details">SDC Days, Jülich, Germany, December 2023 </span>
 - <span class="talk_title">PDE-constrained optimization meets ParaDiag</span><span class="talk_details">12th Workshop on Parallel-in-time Integration, Hamburg, Germany, July 2023 (*poster*)</span>
 - <span class="talk_title">Combining numerical methods and machine learning for physical and engineering sciences</span><span class="talk_details">Conference on Deep Learning for Computational Physics, London, UK, July 2023 (*poster*)</span>
 - <span class="talk_title">Parallelization in time for optimal control and inverse problems</span><span class="talk_details">93rd GAMM Annual Meeting, Dresden, Germany, May/June 2023</span>
