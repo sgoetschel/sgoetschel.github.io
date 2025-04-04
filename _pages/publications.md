@@ -27,7 +27,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 ### Refereed Articles
 1. C. Yang, T. Monopoli, S. Götschel, X. Wu, F. Grassi, C. Schuster:<span class="publication_title">Adaptive On-the-fly Scan Method for Fast and Efficient Planar Near-field Acquisition</span>*IEEE Antennas and Wireless Propagation Letters*, accepted, 2025.
-[https://ieeexplore.ieee.org/document/10947326](doi: 10.1109/LAWP.2025.3557192){:target="_blank"}
+[doi: 10.1109/LAWP.2025.3557192](https://ieeexplore.ieee.org/document/10947326){:target="_blank"}
 1. M. Witte, F. R. Lapolli, P. Freese, S. Götschel, D. Ruprecht, P. Korn, C. Kadow:<span class="publication_title">Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations</span>*Machine Learning: Science and Technology*, 6:1, 015060, 2025.
 [https://doi.org/10.1088/2632-2153/ada19f](https://doi.org/10.1088/2632-2153/ada19f){:target="_blank"}
 1. G. Čaklović, T. Lunet, S. Götschel, D. Ruprecht:<span class="publication_title">Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections</span>*SIAM J. Sci. Comput.*, 47:1, A430-A453, 2025.
