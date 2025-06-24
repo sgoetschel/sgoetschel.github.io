@@ -18,14 +18,14 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 ### Preprints and Submitted Articles
 1. T. Baumann, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>*arXiv:2412.00529*, submitted, 2024.
 [https://arxiv.org/abs/2412.00529](https://arxiv.org/abs/2412.00529){:target="_blank"}
-1. A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Space-time parallel scaling of Parareal with a physics-informed Fourier Neural Operator coarse propagator applied to the Black-Scholes equation </span>*arXiv:2404.02521*, submitted, 2024.
-[https://arxiv.org/abs/2404.02521](https://arxiv.org/abs/2404.02521){:target="_blank"}
 1. P. Freese, S. Götschel, T. Lunet, D. Ruprecht, M. Schreiber<span class="publication_title">Parallel performance of shared memory parallel spectral deferred corrections</span>*arXiv:2403.20135*, submitted, 2024.
 [https://arxiv.org/abs/2403.20135](https://arxiv.org/abs/2403.20135){:target="_blank"}
 1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>*arXiv:2111.10228*, submitted, 2024.
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228){:target="_blank"}
 
 ### Refereed Articles
+1. A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Space-time parallel scaling of Parareal with a physics-informed Fourier Neural Operator coarse propagator applied to the Black-Scholes equation </span>*PASC '25: Proceedings of the Platform for Advanced Scientific Computing Conference*, 2025.
+[https://doi.org/10.1145/3732775.3733574](https://doi.org/10.1145/3732775.3733574){:target="_blank"}
 1. C. Yang, T. Monopoli, S. Götschel, X. Wu, F. Grassi, C. Schuster:<span class="publication_title">Adaptive On-the-fly Scan Method for Fast and Efficient Planar Near-field Acquisition</span>*IEEE Antennas and Wireless Propagation Letters*, accepted, 2025.
 [doi: 10.1109/LAWP.2025.3557192](https://ieeexplore.ieee.org/document/10947326){:target="_blank"}
 1. M. Witte, F. R. Lapolli, P. Freese, S. Götschel, D. Ruprecht, P. Korn, C. Kadow:<span class="publication_title">Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations</span>*Machine Learning: Science and Technology*, 6:1, 015060, 2025.
