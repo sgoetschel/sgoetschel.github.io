@@ -12,6 +12,7 @@ author_profile: true
 {% endif %}
 
 ### Minsiymposia Organization
+- <span class="talk_title">Parallel methods for time-dependent problems: theory and applications</span><span class="talk_details">SIAM Conference on Parallel Processing for Scientific Computing (PP26), Berlin, Germany, March 2026 (together with Arne Nägel , Goethe-Universität Frankfurt and Fynn Bensel, TU Hamburg)
 - <span class="talk_title">Parallel-in-time methods for PDE-constrained optimization</span><span class="talk_details">31st IFIP TC-7 "System Modeling and Optimization" conference, Germany, August 2024
 - <span class="talk_title">High-order and Parallel Time Integration</span><span class="talk_details">93rd GAMM Annual Meeting, Dresden, Germany, May/June 2023 (*invited*, together with Jörg Stiller, TU Dresden)
 - <span class="talk_title">Parallel-in-Time Algorithms: Performance and Real-World Applications</span><span class="talk_details">SIAM Conference on Computational Science and Engineering (CSE23), Amsterdam, The Netherlands (together with Gayatri Čaklović, Karlsruhe Institute of Technology, Germany, and Martin Schreiber, Université Grenoble Alpes, France)
@@ -26,7 +27,7 @@ author_profile: true
 </span><span class="talk_details">Conference on
 Mathematics of Machine Learning, Hamburg, Germany, September 2025</span>
 - <span class="talk_title">Parallelization in time for inverse problems
-</span><span class="talk_details">Parallel-in-time algorithms for exascale applications ( 14th Workshop on Parallel-in-Time Integration), Edinburgh, UK, July 2025</span>
+</span><span class="talk_details">Parallel-in-time algorithms for exascale applications (14th Workshop on Parallel-in-Time Integration), Edinburgh, UK, July 2025</span>
 - <span class="talk_title">ML-enhanced Numerics: From Super-resolution to Neural Operators for Parallel-in-Time Methods
 </span><span class="talk_details">Go20 Conference, Gozo, Malta, May 2025 (*invited*)</span>
 - <span class="talk_title">Neural Operator-accelerated Parallel-in-Time Methods</span><span class="talk_details">95th GAMM Annual Meeting, Poznan, Poland, April 2025</span>
