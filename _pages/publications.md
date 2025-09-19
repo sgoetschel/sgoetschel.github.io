@@ -16,7 +16,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 
 ### Preprints and Submitted Articles
-1. T. Baumann, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>*arXiv:2412.00529*, submitted, 2024.
+1. T. Saupe, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>*arXiv:2412.00529*, submitted, 2024.
 [https://arxiv.org/abs/2412.00529](https://arxiv.org/abs/2412.00529){:target="_blank"}
 1. P. Freese, S. Götschel, T. Lunet, D. Ruprecht, M. Schreiber<span class="publication_title">Parallel performance of shared memory parallel spectral deferred corrections</span>*arXiv:2403.20135*, submitted, 2024.
 [https://arxiv.org/abs/2403.20135](https://arxiv.org/abs/2403.20135){:target="_blank"}
@@ -24,6 +24,8 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228){:target="_blank"}
 
 ### Refereed Articles
+1. S. Schibsdat, Y.-J. Wu, M. Keunecke, S. Baron, D. Höche, J.-P. M. Zemke, S. Götschel, C. Herrmann, J. H. Dege: <span class="publication_title">
+A Novel Data Concept for Cutting Processes through Comprehensive Experimental Setup Enabling Grey-box Models</span>*Wear*, 206348, 2025.[https://doi.org/10.1016/j.wear.2025.206348](https://doi.org/10.1016/j.wear.2025.206348){:target="_blank"}
 1. A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Space-time parallel scaling of Parareal with a physics-informed Fourier Neural Operator coarse propagator applied to the Black-Scholes equation </span>*PASC '25: Proceedings of the Platform for Advanced Scientific Computing Conference*, 2025.
 [https://doi.org/10.1145/3732775.3733574](https://doi.org/10.1145/3732775.3733574){:target="_blank"}
 1. C. Yang, T. Monopoli, S. Götschel, X. Wu, F. Grassi, C. Schuster:<span class="publication_title">Adaptive On-the-fly Scan Method for Fast and Efficient Planar Near-field Acquisition</span>*IEEE Antennas and Wireless Propagation Letters*, accepted, 2025.
@@ -32,7 +34,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 [https://doi.org/10.1088/2632-2153/ada19f](https://doi.org/10.1088/2632-2153/ada19f){:target="_blank"}
 1. G. Čaklović, T. Lunet, S. Götschel, D. Ruprecht:<span class="publication_title">Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections</span>*SIAM J. Sci. Comput.*, 47:1, A430-A453, 2025.
 [https://epubs.siam.org/doi/full/10.1137/24M1649800](https://epubs.siam.org/doi/full/10.1137/24M1649800){:target="_blank"}
-1. T. Baumann, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Adaptive time step selection for Spectral Deferred Corrections</span>*Numerical Algorithms*, 2024.
+1. T. Saupe, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Adaptive time step selection for Spectral Deferred Corrections</span>*Numerical Algorithms*, 2024.
 [https://doi.org/10.1007/s11075-024-01964-z](https://doi.org/10.1007/s11075-024-01964-z){:target="_blank"}
 1. J. Angel, J. Behrens, S. Götschel, M. Hollm, D. Ruprecht, R. Seifried:<span class="publication_title">Bathymetry reconstruction from experimental data using PDE-constrained optimisation</span>*Computers & Fluids*, Volume 278, 2024.
 [https://doi.org/10.1016/j.compfluid.2024.106321
