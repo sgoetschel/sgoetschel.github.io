@@ -23,6 +23,7 @@ author_profile: true
 - <span class="talk_title">Algorithmic Challenges in PDE-constrained Optimization</span><span class="talk_details">IFIP TC 7 Conference on System Modelling and Optimization, Essen, Germany, July 2018 (together with Martin Siebenborn, University of Hamburg, Germany)
 
 ### 2025
+- <span class="talk_title">Physics-Informed Neural Operators:  enforcing boundary conditions and accelerating parallel-in-time integration</span><span class="talk_details">Workshop GAMM Activity Group Computational and Mathematical Methods in Data Sciences 2025, Chemnitz, Germany, October 2025 (*poster*)</span>
 - <span class="talk_title">Hard-constraining Boundary Conditions for Physics-Informed Neural Operators
 </span><span class="talk_details">Conference on
 Mathematics of Machine Learning, Hamburg, Germany, September 2025</span>
