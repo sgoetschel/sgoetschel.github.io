@@ -16,14 +16,16 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 
 ### Preprints and Submitted Articles
+1. N. Göschel, S. Götschel, D. Ruprecht:<span class="publication_title">nforcing boundary conditions for physics-informed neural operators </span>*arXiv:2510.24557*, 2025.
+[https://arxiv.org/abs/2510.24557](https://arxiv.org/abs/2510.24557){:target="_blank"}
 1. T. Saupe, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>*arXiv:2412.00529*, submitted, 2024.
 [https://arxiv.org/abs/2412.00529](https://arxiv.org/abs/2412.00529){:target="_blank"}
-1. P. Freese, S. Götschel, T. Lunet, D. Ruprecht, M. Schreiber<span class="publication_title">Parallel performance of shared memory parallel spectral deferred corrections</span>*arXiv:2403.20135*, submitted, 2024.
-[https://arxiv.org/abs/2403.20135](https://arxiv.org/abs/2403.20135){:target="_blank"}
 1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>*arXiv:2111.10228*, submitted, 2024.
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228){:target="_blank"}
 
 ### Refereed Articles
+1. P. Freese, S. Götschel, T. Lunet, D. Ruprecht, M. Schreiber<span class="publication_title">Parallel performance of shared memory parallel spectral deferred corrections</span>*arXiv:2403.20135*, accepted for publication in International Journal of High Performance Computing Applications, 2025.
+[https://arxiv.org/abs/2403.20135](https://arxiv.org/abs/2403.20135){:target="_blank"}
 1. S. Schibsdat, Y.-J. Wu, M. Keunecke, S. Baron, D. Höche, J.-P. M. Zemke, S. Götschel, C. Herrmann, J. H. Dege: <span class="publication_title">
 A Novel Data Concept for Cutting Processes through Comprehensive Experimental Setup Enabling Grey-box Models</span>*Wear*, 206348, 2025.[https://doi.org/10.1016/j.wear.2025.206348](https://doi.org/10.1016/j.wear.2025.206348){:target="_blank"}
 1. A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Space-time parallel scaling of Parareal with a physics-informed Fourier Neural Operator coarse propagator applied to the Black-Scholes equation </span>*PASC '25: Proceedings of the Platform for Advanced Scientific Computing Conference*, 2025.
