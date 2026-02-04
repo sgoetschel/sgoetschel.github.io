@@ -16,7 +16,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 
 ### Preprints and Submitted Articles
-1. N. Göschel, S. Götschel, D. Ruprecht:<span class="publication_title">nforcing boundary conditions for physics-informed neural operators </span>*arXiv:2510.24557*, 2025.
+1. N. Göschel, S. Götschel, D. Ruprecht:<span class="publication_title">Enforcing boundary conditions for physics-informed neural operators </span>*arXiv:2510.24557*, 2025.
 [https://arxiv.org/abs/2510.24557](https://arxiv.org/abs/2510.24557){:target="_blank"}
 1. T. Saupe, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>*arXiv:2412.00529*, submitted, 2024.
 [https://arxiv.org/abs/2412.00529](https://arxiv.org/abs/2412.00529){:target="_blank"}
