@@ -23,7 +23,7 @@ author_profile: true
 - <span class="talk_title">Algorithmic Challenges in PDE-constrained Optimization</span><span class="talk_details">IFIP TC 7 Conference on System Modelling and Optimization, Essen, Germany, July 2018 (together with Martin Siebenborn, University of Hamburg, Germany)
 
 ### 2026
-- <span class="talk_title">Physics-Informed Neural Operators:  enforcing boundary conditions and accelerating parallel-in-time integration</span><span class="talk_details">96th GAMM Annual Meeting, Stuttgart, Germany, March 2026</span>
+- <span class="talk_title">Hard-constraining Boundary Conditions for Physics-Informed Neural Operators</span><span class="talk_details">96th GAMM Annual Meeting, Stuttgart, Germany, March 2026</span>
 - <span class="talk_title">Hard-constraining Boundary Conditions for Physics-Informed Neural Operators
 </span><span class="talk_details">Annual Meeting of the EMS TAG SciML, Cologne, Germany, March 2026</span>
 - <span class="talk_title">Parallelization in Time for Inverse Problems </span><span class="talk_details">SIAM Conference on Parallel Processing for Scientific Computing (PP26), Berlin, Germany, March 2026 (*poster*)</span>

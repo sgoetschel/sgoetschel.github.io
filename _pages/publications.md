@@ -28,17 +28,19 @@ for Stochastic Differential Equations</span> submitted 2026.
 [https://arxiv.org/abs/2412.00529](https://arxiv.org/abs/2412.00529){:target="_blank"}
 1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>*arXiv:2111.10228*, submitted, 2024.
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228){:target="_blank"}
+{: reversed="reversed"}
+
 
 ### Refereed Articles
 1. C. John, T. Lunet, S. Götschel, A. Herten, S. Kesselheim, D. Ruprecht: <span class="publication_title">Fourier Neural Operators for Rayleigh–Bénard Convection</span>  accepted for publication at ICCS 2026: 26th International Conference on Computational Science, 2026.
 1. P. Freese, S. Götschel, T. Lunet, D. Ruprecht, M. Schreiber<span class="publication_title">Parallel performance of shared memory parallel spectral deferred corrections</span>*arXiv:2403.20135*, accepted for publication in International Journal of High Performance Computing Applications, 2025.
 [https://arxiv.org/abs/2403.20135](https://arxiv.org/abs/2403.20135){:target="_blank"}
 1. S. Schibsdat, Y.-J. Wu, M. Keunecke, S. Baron, D. Höche, J.-P. M. Zemke, S. Götschel, C. Herrmann, J. H. Dege: <span class="publication_title">
-A Novel Data Concept for Cutting Processes through Comprehensive Experimental Setup Enabling Grey-box Models</span>*Wear*, 206348, 2025.[https://doi.org/10.1016/j.wear.2025.206348](https://doi.org/10.1016/j.wear.2025.206348){:target="_blank"}
+A Novel Data Concept for Cutting Processes through Comprehensive Experimental Setup Enabling Grey-box Models</span>*Wear*, 206348, 2025. [https://doi.org/10.1016/j.wear.2025.206348](https://doi.org/10.1016/j.wear.2025.206348){:target="_blank"}
 1. A. Q. Ibrahim, S. Götschel, D. Ruprecht: <span class="publication_title">Space-time parallel scaling of Parareal with a physics-informed Fourier Neural Operator coarse propagator applied to the Black-Scholes equation </span>*PASC '25: Proceedings of the Platform for Advanced Scientific Computing Conference*, 2025.
 [https://doi.org/10.1145/3732775.3733574](https://doi.org/10.1145/3732775.3733574){:target="_blank"}
 1. C. Yang, T. Monopoli, S. Götschel, X. Wu, F. Grassi, C. Schuster:<span class="publication_title">Adaptive On-the-fly Scan Method for Fast and Efficient Planar Near-field Acquisition</span>*IEEE Antennas and Wireless Propagation Letters*, 24:8, pp. 2143-2147, 2025.
-[doi: 10.1109/LAWP.2025.3557192](https://ieeexplore.ieee.org/document/10947326){:target="_blank"}
+[https://doi.org/10.1109/LAWP.2025.3557192](https://ieeexplore.ieee.org/document/10947326){:target="_blank"}
 1. M. Witte, F. R. Lapolli, P. Freese, S. Götschel, D. Ruprecht, P. Korn, C. Kadow:<span class="publication_title">Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations</span>*Machine Learning: Science and Technology*, 6:1, 015060, 2025.
 [https://doi.org/10.1088/2632-2153/ada19f](https://doi.org/10.1088/2632-2153/ada19f){:target="_blank"}
 1. G. Čaklović, T. Lunet, S. Götschel, D. Ruprecht:<span class="publication_title">Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections</span>*SIAM J. Sci. Comput.*, 47:1, A430-A453, 2025.
