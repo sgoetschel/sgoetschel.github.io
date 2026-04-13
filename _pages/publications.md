@@ -28,7 +28,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228){:target="_blank"}
 
 ### Refereed Articles
-1. C. John, T. Lunet, S. Götschel, A. Herten, S. Kesselheim, D. Ruprecht: <span class="publication_title">Fourier Neural Operators for Rayleigh–Bénard Convection</span>,  accepted for publication at ICCS 2026: 26th International Conference on Computational Science, 2026.
+1. C. John, T. Lunet, S. Götschel, A. Herten, S. Kesselheim, D. Ruprecht: <span class="publication_title">Fourier Neural Operators for Rayleigh–Bénard Convection</span>  accepted for publication at ICCS 2026: 26th International Conference on Computational Science, 2026.
 1. P. Freese, S. Götschel, T. Lunet, D. Ruprecht, M. Schreiber<span class="publication_title">Parallel performance of shared memory parallel spectral deferred corrections</span>*arXiv:2403.20135*, accepted for publication in International Journal of High Performance Computing Applications, 2025.
 [https://arxiv.org/abs/2403.20135](https://arxiv.org/abs/2403.20135){:target="_blank"}
 1. S. Schibsdat, Y.-J. Wu, M. Keunecke, S. Baron, D. Höche, J.-P. M. Zemke, S. Götschel, C. Herrmann, J. H. Dege: <span class="publication_title">
