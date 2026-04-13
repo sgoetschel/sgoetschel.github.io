@@ -19,9 +19,11 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 1. F. Sommer, V. Rathi, S. Götschel, D. Ruprecht: <span class="publication_title">Approximation of the Basset force in the Maxey-Riley-Gatignol equations via universal differential equations</span> *arXiv:2604.08194*, 2026.
 [https://arxiv.org/abs/2604.08194](https://arxiv.org/abs/2604.08194){:target="_blank"}
 1. L. Stietz, S. Götschel, P. Schleper, D. Ruprecht: <span class="publication_title">Bathymetry Reconstruction by Bayesian Inference</span> submitted 2026.
-1. N. Göschel, S. Götschel, D. Ruprecht: <span class="publication_title">Enforcing boundary conditions for physics-informed neural operators </span>*arXiv:2510.24557*, 2025.
-[https://arxiv.org/abs/2510.24557](https://arxiv.org/abs/2510.24557){:target="_blank"}
 1. Y.-J. Wu, J. Kopp, J.-P. M. Zenke, S. Götschel, P. Volke, A. Zabel, S. Schibsdat, J. Dege, F. Walther, D. Höche: <span class="publication_title">Generalization of LSTM and CNN Autoencoders for Anomaly Detection Across Orthogonal and Longitudinal Turning</span> submitted 2026.
+1. L. Binkowski, M. R. Christian, S. Götschel, M. Minion:  <span class="publication_title">Toward Spectral Deferred Correction Methods
+for Stochastic Differential Equations</span> submitted 2026.
+1. N. Göschel, S. Götschel, D. Ruprecht: <span class="publication_title">Enforcing boundary conditions for physics-informed neural operators </span>*arXiv:2510.24557*, submitted, 2025.
+[https://arxiv.org/abs/2510.24557](https://arxiv.org/abs/2510.24557){:target="_blank"}
 1. T. Saupe, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>*arXiv:2412.00529*, submitted, 2024.
 [https://arxiv.org/abs/2412.00529](https://arxiv.org/abs/2412.00529){:target="_blank"}
 1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>*arXiv:2111.10228*, submitted, 2024.
