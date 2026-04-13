@@ -16,14 +16,19 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 
 ### Preprints and Submitted Articles
-1. N. Göschel, S. Götschel, D. Ruprecht:<span class="publication_title">nforcing boundary conditions for physics-informed neural operators </span>*arXiv:2510.24557*, 2025.
+1. F. Sommer, V. Rathi, S. Götschel, D. Ruprecht: <span class="publication_title">Approximation of the Basset force in the Maxey-Riley-Gatignol equations via universal differential equations</span> *arXiv:2604.08194*, 2026.
+[https://arxiv.org/abs/2604.08194](https://arxiv.org/abs/2604.08194){:target="_blank"}
+1. L. Stietz, S. Götschel, P. Schleper, D. Ruprecht: <span class="publication_title">Bathymetry Reconstruction by Bayesian Inference</span> submitted 2026.
+1. N. Göschel, S. Götschel, D. Ruprecht: <span class="publication_title">Enforcing boundary conditions for physics-informed neural operators </span>*arXiv:2510.24557*, 2025.
 [https://arxiv.org/abs/2510.24557](https://arxiv.org/abs/2510.24557){:target="_blank"}
+1. Y.-J. Wu, J. Kopp, J.-P. M. Zenke, S. Götschel, P. Volke, A. Zabel, S. Schibsdat, J. Dege, F. Walther, D. Höche: <span class="publication_title">Generalization of LSTM and CNN Autoencoders for Anomaly Detection Across Orthogonal and Longitudinal Turning</span> submitted 2026.
 1. T. Saupe, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>*arXiv:2412.00529*, submitted, 2024.
 [https://arxiv.org/abs/2412.00529](https://arxiv.org/abs/2412.00529){:target="_blank"}
 1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>*arXiv:2111.10228*, submitted, 2024.
 [https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228){:target="_blank"}
 
 ### Refereed Articles
+1. C. John, T. Lunet, S. Götschel, A. Herten, S. Kesselheim, D. Ruprecht: <span class="publication_title">Fourier Neural Operators for Rayleigh–Bénard Convection</span>,  accepted for publication at ICCS 2026: 26th International Conference on Computational Science, 2026.
 1. P. Freese, S. Götschel, T. Lunet, D. Ruprecht, M. Schreiber<span class="publication_title">Parallel performance of shared memory parallel spectral deferred corrections</span>*arXiv:2403.20135*, accepted for publication in International Journal of High Performance Computing Applications, 2025.
 [https://arxiv.org/abs/2403.20135](https://arxiv.org/abs/2403.20135){:target="_blank"}
 1. S. Schibsdat, Y.-J. Wu, M. Keunecke, S. Baron, D. Höche, J.-P. M. Zemke, S. Götschel, C. Herrmann, J. H. Dege: <span class="publication_title">
