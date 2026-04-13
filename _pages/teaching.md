@@ -11,11 +11,12 @@ author_profile: true
 
 [**Contact me**](mailto:sebastian.goetschel@tuhh.de) if you are interested in writing a thesis (BSc, MSc, "Projektarbeit"). Possible topics include machine learning for various applications, combination of machine learning with physics-based modeling and numerical algorithms, as well as numerical methods for time-dependent differential equations, PDE-constrained optimization, and inverse problems.
 
-### Current (WiSe 2025/26)
-- Lecture **Repetitorium Mathematik II (DE/EN)**
+### Current (SoSe 2026)
+- Lecture **Repetitorium Mathematik I (DE/EN)**
 
 
 ### Past
+- Lecture **Repetitorium Mathematik II (DE/EN)**, WiSe 2025/26
 - Lecture **Parallelization of Solvers**, SoSe 2025
 - Lecture **Repetitorium Mathematik I (DE/EN)**, SoSe 2025
 - EIM-Seminar **Adversarial attacks**, WiSe 2024/25
