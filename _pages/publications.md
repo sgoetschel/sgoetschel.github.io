@@ -18,6 +18,8 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 ### Preprints and Submitted Articles
 1. S. Externbrink, A. El Kaffas, D. Hristov, S. Götschel: <span class="publication_title">Adjoint-based Perfusion Estimation from Dynamic Contrast-Enhanced Ultrasound: Advection-Diffusion and Two-Compartment Models </span> *arXiv:2606.07195*, 2026.
 [https://arxiv.org/abs/2606.07195](https://arxiv.org/abs/2606.07195){:target="_blank"}
+1. V. Rathi, F. Sehar, F. Sommer, S. Götschel, E. Steuwe, A. von Kameke, D. Ruprecht: <span class="publication_title">Tracking in-silico Lagrangian sensors in a lab-scale stirred tank reactor</span> *arXiv:2606.13099*, 2026.
+[https://arxiv.org/abs/2606.13099](https://arxiv.org/abs/2606.13099){:target="_blank"}
 1. F. Sommer, V. Rathi, S. Götschel, D. Ruprecht: <span class="publication_title">Approximation of the Basset force in the Maxey-Riley-Gatignol equations via universal differential equations</span> *arXiv:2604.08194*, 2026.
 [https://arxiv.org/abs/2604.08194](https://arxiv.org/abs/2604.08194){:target="_blank"}
 1. L. Stietz, S. Götschel, P. Schleper, D. Ruprecht: <span class="publication_title">Bathymetry Reconstruction by Bayesian Inference</span> submitted 2026.
