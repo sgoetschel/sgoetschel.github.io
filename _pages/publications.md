@@ -24,20 +24,21 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 [https://arxiv.org/abs/2604.08194](https://arxiv.org/abs/2604.08194){:target="_blank"}
 1. L. Stietz, S. Götschel, P. Schleper, D. Ruprecht: <span class="publication_title">Bathymetry Reconstruction by Bayesian Inference</span> submitted 2026.
 [https://arxiv.org/abs/2604.18598](https://arxiv.org/abs/2604.18598){:target="_blank"}
-1. Y.-J. Wu, J. Kopp, J.-P. M. Zenke, S. Götschel, P. Volke, A. Zabel, S. Schibsdat, J. Dege, F. Walther, D. Höche: <span class="publication_title">Generalization of LSTM and CNN Autoencoders for Anomaly Detection Across Orthogonal and Longitudinal Turning</span> submitted 2026.
 1. L. Binkowski, M. R. Christian, S. Götschel, M. Minion:  <span class="publication_title">Toward Spectral Deferred Correction Methods
 for Stochastic Differential Equations</span> submitted, 2026.
 1. N. Göschel, S. Götschel, D. Ruprecht: <span class="publication_title">Enforcing boundary conditions for physics-informed neural operators </span>*arXiv:2510.24557*, submitted, 2025.
 [https://arxiv.org/abs/2510.24557](https://arxiv.org/abs/2510.24557){:target="_blank"}
-1. T. Saupe, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>*arXiv:2412.00529*, submitted, 2024.
-[https://arxiv.org/abs/2412.00529](https://arxiv.org/abs/2412.00529){:target="_blank"}
-1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>*arXiv:2111.10228*, submitted, 2024.
-[https://doi.org/10.48550/arXiv.2111.10228](https://doi.org/10.48550/arXiv.2111.10228){:target="_blank"}
 {: reversed="reversed"}
 
 
 ### Refereed Articles
-1. C. John, T. Lunet, S. Götschel, A. Herten, S. Kesselheim, D. Ruprecht: <span class="publication_title">Fourier Neural Operators for Rayleigh–Bénard Convection</span>  In: Neumann, P., Puma, M.J., Lees, M.H., Groen, D., Dongarra, J.J., Sloot, P.M.A. (eds) Computational Science – ICCS 2026. Lecture Notes in Computer Science, vol 16784. Springer, 2026.
+1. T. Saupe, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>In: Spiteri, R.J., Wei, S. (eds) Scientific Computing and Software. Go20 CSCS 2024. Springer Proceedings in Mathematics & Statistics, vol 535. Springer, 2026.
+[https://doi.org/10.1007/978-3-032-17810-7_2](https://doi.org/10.1007/978-3-032-17810-7_2){:target="_blank"}
+1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>In: Spiteri, R.J., Wei, S. (eds) Scientific Computing and Software. Go20 CSCS 2024. Springer Proceedings in Mathematics & Statistics, vol 535. Springer, 2026.
+[https://doi.org/10.1007/978-3-032-17810-7_4](https://doi.org/10.1007/978-3-032-17810-7_4){:target="_blank"}
+1. Y.-J. Wu, J. Kopp, J.-P. M. Zenke, S. Götschel, P. Volke, A. Zabel, S. Schibsdat, J. Dege, F. Walther, D. Höche: <span class="publication_title">Generalization of LSTM and CNN Autoencoders for Anomaly Detection Across Orthogonal and Longitudinal Turning</span>  The International Journal of Advanced Manufacturing Technology, 2026.
+[https://doi.org/10.1007/s00170-026-18595-4](https://doi.org/10.1007/s00170-026-18595-4){:target="_blank"}
+1. C. John, T. Lunet, S. Götschel, A. Herten, S. Kesselheim, D. Ruprecht: <span class="publication_title">Fourier Neural Operators for Rayleigh–Bénard Convection</span>  In: Neumann, P., Puma, M.J., Lees, M.H., Groen, D., Dongarra, J.J., Sloot, P.M.A. (eds) Computational Science – ICCS 2026. Lecture Notes in Computer Science, vol 16784. Springer, 2026. *Best Poster Award at ICCS 2026*
 [https://doi.org/10.1007/978-3-032-29924-6_40](https://doi.org/10.1007/978-3-032-29924-6_40){:target="_blank"}
 1. P. Freese, S. Götschel, T. Lunet, D. Ruprecht, M. Schreiber<span class="publication_title">Parallel performance of shared memory parallel spectral deferred corrections</span>*arXiv:2403.20135*, International Journal of High Performance Computing Applications, online first, doi: 10.1177/10943420251400406, 2025.
 [https://arxiv.org/abs/2403.20135](https://arxiv.org/abs/2403.20135){:target="_blank"}
