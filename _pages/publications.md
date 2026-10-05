@@ -14,12 +14,9 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 {% endif %}
 
 
-
 ### Preprints and Submitted Articles
 1. S. Externbrink, A. El Kaffas, D. Hristov, S. Götschel: <span class="publication_title">Adjoint-based Perfusion Estimation from Dynamic Contrast-Enhanced Ultrasound: Advection-Diffusion and Two-Compartment Models </span> *arXiv:2606.07195*, 2026.
 [https://arxiv.org/abs/2606.07195](https://arxiv.org/abs/2606.07195){:target="_blank"}
-1. V. Rathi, F. Sehar, F. Sommer, S. Götschel, E. Steuwe, A. von Kameke, D. Ruprecht: <span class="publication_title">Tracking in-silico Lagrangian sensors in a lab-scale stirred tank reactor</span> *arXiv:2606.13099*, 2026.
-[https://arxiv.org/abs/2606.13099](https://arxiv.org/abs/2606.13099){:target="_blank"}
 1. F. Sommer, V. Rathi, S. Götschel, D. Ruprecht: <span class="publication_title">Approximation of the Basset force in the Maxey-Riley-Gatignol equations via universal differential equations</span> *arXiv:2604.08194*, 2026.
 [https://arxiv.org/abs/2604.08194](https://arxiv.org/abs/2604.08194){:target="_blank"}
 1. L. Stietz, S. Götschel, P. Schleper, D. Ruprecht: <span class="publication_title">Bathymetry Reconstruction by Bayesian Inference</span> submitted 2026.
@@ -32,6 +29,8 @@ for Stochastic Differential Equations</span> submitted, 2026.
 
 
 ### Refereed Articles
+1. V. Rathi, F. Sehar, F. Sommer, S. Götschel, E. Steuwe, A. von Kameke, D. Ruprecht: <span class="publication_title">Tracking in-silico Lagrangian sensors in a lab-scale stirred tank reactor</span> Computers & Chemical Engineering, Vol. 216, Article 109911, 2026.
+[https://doi.org/10.1016/j.compchemeng.2026.109911](https://doi.org/10.1016/j.compchemeng.2026.109911){:target="_blank"}
 1. T. Saupe, S. Götschel, T. Lunet, D. Ruprecht, R. Speck:<span class="publication_title">Resilience Against Soft Faults through Adaptivity in Spectral Deferred Correction </span>In: Spiteri, R.J., Wei, S. (eds) Scientific Computing and Software. Go20 CSCS 2024. Springer Proceedings in Mathematics & Statistics, vol 535. Springer, 2026.
 [https://doi.org/10.1007/978-3-032-17810-7_2](https://doi.org/10.1007/978-3-032-17810-7_2){:target="_blank"}
 1. J. Angel, S. Götschel, D. Ruprecht:<span class="publication_title">Impact of spatial coarsening on Parareal convergence</span>In: Spiteri, R.J., Wei, S. (eds) Scientific Computing and Software. Go20 CSCS 2024. Springer Proceedings in Mathematics & Statistics, vol 535. Springer, 2026.
